@@ -2,43 +2,37 @@ export const times = [
   {
     time: "00:00",
     paragraphs: [
-      `Los ángeles le muestran que está al final de un ciclo. Un final que anuncia un renacimiento. Aquí experimentará una nueva etapa en su existencia, especialmente en el aspecto espiritual de esta. Le ayudan en el estudio de textos o documentos relacionados con las artes sagradas y adivinatorias. Usted tendrà un aviso, incluso podemos hablar de despertar!`,
+      `Tienes una decisión que tomar o una situación regresa ahí donde todo comenzó. Tienes que liberarte un poco más.`,
     ],
   },
   {
     time: "01:01",
     paragraphs: [
-      `Si ha visto la hora del espejo 01:01, significa que un ángel guardián desea informarle que una persona está enamorada de Usted ; haga un balance de sí mismo y trate de tomarse el tiempo para analizar los sentimientos que siente cuando piensa en alguien en particular. Debería poder saber quién es.`,
-      `Sin embargo, le advierte que la soledad y el aislamiento no son buenas posturas que adoptar para Usted, el contacto social es realmente importante para su equilibrio. Si está buscando amor, debe aceptar de explorar nuevos territorios, porque en un contexto diferente al suyo, puede encontrarse una perla rara`,
-      `01h01 destaca una fuerte personalidad tenga cuidado de no hundirse en el egocentrismo. Sin duda, usted merece interés para sus seres queridos, pero comience todas sus oraciones con "yo” puede molestar rápidamente a su familia o sus colegas.`,
-      `Finalmente, si tiene responsabilidades importantes, la hora de espejo 01:01 indica que está en una posición de liderazgo, para usted el trabajo en equipo es algo natural. El principio paterno / materno emana de su personaje y esto le convierte en un líder confiable y respetado, incluso si su carisma y su fuerte personalidad pueden desestabilizar a algunas personas.`,
+      `Puede ser que una persona te ame o que te sientas solo. Tu ángel te invita a aislarte para que te descubras mejor como persona.`,
     ],
   },
   {
     time: "02:02",
     paragraphs: [
-      `¡Los ángeles guardianes le invitan a trabajar en si mismo! De hecho, la hora del espejo 02:02 indica que a veces encuentra períodos en los que la dualidad le asalta. Debe tomarse el tiempo para analizar lo que es bueno y lo que es mal. Dése la perspectiva necesaria antes de tomar decisiones, de lo contrario puede tomar la decisión equivocada.`,
-      `Usted es una persona sensible, tiene una gran empatía y siente lo que realmente piensa la gente. Tiene predisposición a la medianidad. Puede hacerlo si desea perfeccionar su conocimiento en el campo del esoterismo o el estudio de los sueños. Es guiado por su ángel guardián que le dará acceso a mucha información a través de signos, sincronicidad o por casualidad.`,
-      `Usted es altruista especialmente a nivel profesional. Es una persona humilde que prefiere liderar en secreto. Pero tenga cuidado de no apartarse demasiado, ya que es posible que no reciba el reconocimiento que merece. Es un alma hermosa, pero también debe saber cómo defender sus intereses sino algunas personas pueden robarselos.`,
-      `Si tiene la idea de asociarse con alguien o si desea saber si la persona que está presente en su corazón es la correcta, la respuesta de los ángeles guardianes a través del tiempo 02:02 es ¡sí! Usted tiene la certeza de que podrá estar de acuerdo con todos.`,
+      `Puede que alguien te esconda algo. Recuerda que siempre está ahí para ti.`,
     ],
   },
   {
     time: "03:03",
     paragraphs: [
-      `Esta hora doble le envía un mensaje relativamente positivo de los ángeles guardianes. De hecho, le dice que está en una situación en la que todo es posible. El 33 es un número maestro, muestra que su voluntad es inquebrantable y que generará grandes cambios en su vida.`,
+      `No te confíes de una persona que te rodea.  Él te empujará a activarte.`,
     ],
   },
   {
     time: "04:04",
     paragraphs: [
-      `Los ángeles guardianes aquí indican que experimentará un período de gran condición física. Si actualmente tiene problemas de salud, le están diciendo claramente que superará estos desafíos. Lo refuerzan y lo ayudan a encontrar la motivación que necesita para cuidar su cuerpo.`,
+      `Una situación delicada en puerta. Debes hacer todo por resaltar tu potencial.`,
     ],
   },
   {
     time: "05:05",
     paragraphs: [
-      `Si cae en la hora del espejo 05:05 significa que los ángeles guardianes anuncian que serán para Usted un gran apoyo. Le gusta la vida. La celebra tan pronto como puedas. Es para Usted una experiencia constante que le enriquece con su diversidad y su complejidad. Lo guiarán en su imaginación ; escuche la pequeña voz interior que le habla de vez en cuando ; tiene cosas hermosas que transmitirle.`,
+      `Una persona que te conoce te ama. Tienes que mantener los pies en la tierra.`,
     ],
   },
   {
