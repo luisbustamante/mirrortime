@@ -141,10 +141,7 @@ export const times = [
   {
     time: "23:23",
     paragraphs: [
-      `Recibe aquí de los ángeles guardianes un mensaje sobre un proyecto que es importante para Usted. Le dejan claro que están allí para ayudarlo a que esto suceda. Puede estar seguro de que si tiene la idea de emprender algo que sea su vida amorosa o profesional, sus acciones serán exitosas.`,
-      `El tiempo 23:23 también significa que es probable que se mueve. ¡Prepárese para hacer un viaje! Éste puede estar relacionado con el negocio. Pero tómese el tiempo para leer en sí mismo, porque este desplazamiento también puede afectar su vida personal. Es Usted quien determinará la naturaleza de este movimiento.`,
-      `Los ángeles le ayudan a convertirse en una persona flexible y abierta. ¡Tiene la capacidad de adaptarse a todo tipo de situaciones y eso impresiona mucho! Debe decirse que tiene un don innato para comunicar sus ideas a su alrededor, mientras que tiene un gran sentido de la escucha. ¡Esto le convierte en el interlocutor a quien se confía grandes secretos!`,
-      `Actualmente está disfrutando de una importante protección del mundo angelical. Los ángeles le guían en su evolución espiritual. Disfruta de esta armadura de luz para moverse serenamente en su vida. Puede lograr metas ambiciosas, solo comienza a recorrer su verdadero camino de vida. Puede requerir cambios en sus hábitos, ¡pero le hará el mayor bien!`,
+      `Tu pareja te necesita, aprende a escucharlo (a). Continúa creyendo en ti.`,
     ],
   },
 ];

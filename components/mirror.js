@@ -8,7 +8,7 @@ const Mirror = ({ time }) => {
     paragraphs: [""],
   });
   useEffect(() => {
-    const fetchMirror = async () => {
+    async function fetchMirror() {
       try {
         const response = await fetch(`/api/mirror/${mirror.timePart}`);
         const json = await response.json();
@@ -20,9 +20,9 @@ const Mirror = ({ time }) => {
       } catch (error) {
         console.log(error);
       }
-    };
+    }
     fetchMirror();
-  }, []);
+  }, [mirror]);
   const paragraphs = mirror.paragraphs.map((paragraph, index) => {
     return <p key={index}>{paragraph}</p>;
   });
